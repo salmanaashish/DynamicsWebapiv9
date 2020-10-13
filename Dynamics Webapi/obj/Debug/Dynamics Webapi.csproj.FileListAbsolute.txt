@@ -1,0 +1,18 @@
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\obj\Debug\Dynamics Webapi.csprojAssemblyReference.cache
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\obj\Debug\Dynamics Webapi.csproj.CoreCompileInputs.cache
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\Dynamics Webapi.exe.config
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\Dynamics Webapi.exe
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\Dynamics Webapi.pdb
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\System.Net.Http.dll
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\obj\Debug\Dynamics Webapi.csproj.CopyComplete
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\obj\Debug\Dynamics Webapi.exe
+C:\Users\lenova\source\repos\Dynamics Webapi\Dynamics Webapi\obj\Debug\Dynamics Webapi.pdb
